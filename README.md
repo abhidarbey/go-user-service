@@ -13,17 +13,7 @@ This project has  4 Domain layer :
 
 <img src="/docs/img/clean-arch.png">
 
-### How To Run This Project
-> Make Sure you have run the article.sql in your mysql
-
-
 This project uses Go Module
-
-#### Run the Testing
-
-```bash
-$ make test
-```
 
 #### Run the Applications
 
