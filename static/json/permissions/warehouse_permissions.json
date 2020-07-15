@@ -1,0 +1,124 @@
+{
+    "permissions": [
+        {
+            "name": "CanCreateWarehouse"
+        },
+        {
+            "name": "CanReadWarehouse"
+        },
+        {
+            "name": "CanUpdateWarehouse"
+        },
+        {
+            "name": "CanDeleteWarehouse"
+        },
+        {
+            "name": "CanCreateRack"
+        },
+        {
+            "name": "CanReadRack"
+        },
+        {
+            "name": "CanUpdateRack"
+        },
+        {
+            "name": "CanDeleteRack"
+        },
+        {
+            "name": "CanCreateCell"
+        },
+        {
+            "name": "CanReadCell"
+        },
+        {
+            "name": "CanUpdateCell"
+        },
+        {
+            "name": "CanDeleteCell"
+        },
+        {
+            "name": "CanCreatePallet"
+        },
+        {
+            "name": "CanReadPallet"
+        },
+        {
+            "name": "CanUpdatePallet"
+        },
+        {
+            "name": "CanDeletePallet"
+        },
+        {
+            "name": "CanCreateSto"
+        },
+        {
+            "name": "CanReadSto"
+        },
+        {
+            "name": "CanUpdateSto"
+        },
+        {
+            "name": "CanDeleteSto"
+        },
+        {
+            "name": "CanCreatePickList"
+        },
+        {
+            "name": "CanReadPickList"
+        },
+        {
+            "name": "CanUpdatePickList"
+        },
+        {
+            "name": "CanDeletePickList"
+        },
+        {
+            "name": "CanCreateDeliveryLine"
+        },
+        {
+            "name": "CanReadDeliveryLine"
+        },
+        {
+            "name": "CanUpdateDeliveryLine"
+        },
+        {
+            "name": "CanDeleteDeliveryLine"
+        },
+        {
+            "name": "CanCreateDispatch"
+        },
+        {
+            "name": "CanReadDispatch"
+        },
+        {
+            "name": "CanUpdateDispatch"
+        },
+        {
+            "name": "CanDeleteDispatch"
+        },
+        {
+            "name": "CanCreateAsn"
+        },
+        {
+            "name": "CanReadAsn"
+        },
+        {
+            "name": "CanUpdateAsn"
+        },
+        {
+            "name": "CanDeleteAsn"
+        },
+        {
+            "name": "CanCreateGrn"
+        },
+        {
+            "name": "CanReadGrn"
+        },
+        {
+            "name": "CanUpdateGrn"
+        },
+        {
+            "name": "CanDeleteGrn"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "permissions": [
+        {
+            "name": "CanCreateRfq"
+        },
+        {
+            "name": "CanReadRfq"
+        },
+        {
+            "name": "CanUpdateRfq"
+        },
+        {
+            "name": "CanDeleteRfq"
+        },
+        {
+            "name": "CanCreateQuotation"
+        },
+        {
+            "name": "CanReadQuotation"
+        },
+        {
+            "name": "CanUpdateQuotation"
+        },
+        {
+            "name": "CanDeleteQuotation"
+        },
+        {
+            "name": "CanCreatePurchaseOrder"
+        },
+        {
+            "name": "CanReadPurchaseOrder"
+        },
+        {
+            "name": "CanUpdatePurchaseOrder"
+        },
+        {
+            "name": "CanDeletePurchaseOrder"
+        },
+        {
+            "name": "CanCreateSalesOrder"
+        },
+        {
+            "name": "CanReadSalesOrder"
+        },
+        {
+            "name": "CanUpdateSalesOrder"
+        },
+        {
+            "name": "CanDeleteSalesOrder"
+        }
+    ]
+}

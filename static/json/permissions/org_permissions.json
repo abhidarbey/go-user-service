@@ -1,0 +1,58 @@
+{
+    "permissions": [
+        {
+            "name": "CanUpdateOrganization"
+        },
+        {
+            "name": "CanDeleteOrganization"
+        },
+        {
+            "name": "CanCreateDepartment"
+        },
+        {
+            "name": "CanReadDepartment"
+        },
+        {
+            "name": "CanUpdateDepartment"
+        },
+        {
+            "name": "CanDeleteDepartment"
+        },
+        {
+            "name": "CanCreateRole"
+        },
+        {
+            "name": "CanReadRole"
+        },
+        {
+            "name": "CanUpdateRole"
+        },
+        {
+            "name": "CanDeleteRole"
+        },
+        {
+            "name": "CanUpdateRolePermissions"
+        },
+        {
+            "name": "CanCreateUser"
+        },
+        {
+            "name": "CanReadUser"
+        },
+        {
+            "name": "CanUpdateUser"
+        },
+        {
+            "name": "CanDeleteUser"
+        },
+        {
+            "name": "CanUpdateUserDepartments"
+        },
+        {
+            "name": "CanUpdateUserRoles"
+        },
+        {
+            "name": "CanUpdateUserPermissions"
+        }
+    ]
+}

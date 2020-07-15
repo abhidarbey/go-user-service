@@ -1,0 +1,52 @@
+{
+    "permissions": [
+        {
+            "name": "CanCreateInventoryProduct"
+        },
+        {
+            "name": "CanReadInventoryProduct"
+        },
+        {
+            "name": "CanUpdateInventoryProduct"
+        },
+        {
+            "name": "CanDeleteInventoryProduct"
+        },
+        {
+            "name": "CanCreateInventorySku"
+        },
+        {
+            "name": "CanReadInventorySku"
+        },
+        {
+            "name": "CanUpdateInventorySku"
+        },
+        {
+            "name": "CanDeleteInventorySku"
+        },
+        {
+            "name": "CanCreateInventoryBatch"
+        },
+        {
+            "name": "CanReadInventoryBatch"
+        },
+        {
+            "name": "CanUpdateInventoryBatch"
+        },
+        {
+            "name": "CanDeleteInventoryBatch"
+        },
+        {
+            "name": "CanCreateStock"
+        },
+        {
+            "name": "CanReadStock"
+        },
+        {
+            "name": "CanUpdateStock"
+        },
+        {
+            "name": "CanDeleteStock"
+        }
+    ]
+}

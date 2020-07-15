@@ -1,0 +1,7 @@
+# Ignore these files
+*/*.md
+*/.git
+docs/
+*/tests/
+infra/
+skaffold.yaml

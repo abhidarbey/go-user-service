@@ -1,0 +1,40 @@
+{
+    "permissions": [
+        {
+            "name": "CanCreateCatalogueProduct"
+        },
+        {
+            "name": "CanReadCatalogueProduct"
+        },
+        {
+            "name": "CanUpdateCatalogueProduct"
+        },
+        {
+            "name": "CanDeleteCatalogueProduct"
+        },
+        {
+            "name": "CanCreateCatalogueSku"
+        },
+        {
+            "name": "CanReadCatalogueSku"
+        },
+        {
+            "name": "CanUpdateCatalogueSku"
+        },
+        {
+            "name": "CanDeleteCatalogueSku"
+        },
+        {
+            "name": "CanCreateCatalogueBatch"
+        },
+        {
+            "name": "CanReadCatalogueBatch"
+        },
+        {
+            "name": "CanUpdateCatalogueBatch"
+        },
+        {
+            "name": "CanDeleteCatalogueBatch"
+        }
+    ]
+}
